@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+.contact_1 a{
+    color: red;
+    text-shadow: none;
+    text-decoration: none;
+}
+
+#contact{
+    background: firebrick;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+
+#contact iframe{
+    width: 100%;
+}
